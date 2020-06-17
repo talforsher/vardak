@@ -170,22 +170,10 @@ function save() {
     <html lang="en">
     
     <head>
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-168947522-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-168947522-1');
-</script>
-
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="סדנאות נגרות לקבוצות. אסתריקה בבארות יצחק. חברות, קבוצות ואירועים לסדנאות נגרות מדהימות.">
-<meta name="keywords" content="אסתריקה, נגרות">
 <meta name="robots" content="index, follow">
-        <title>אסתריקה</title>
+        <title>ורדה ביטוח</title>
         <style>
             body {
                 margin: 0;
